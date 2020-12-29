@@ -1,0 +1,22 @@
+{
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "name": "Fizzstores_Overseer",
+  "description": "A bot to oversee FizzStores operations.",
+  "author": "Fjorge",
+  "main": "index.js",
+  "version": "2.11.4",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express.js": "^1.0.0",
+    "fs": "0.0.1-security",
+    "js-beautify": "^1.11.0"
+  },
+  "engines": {
+    "node": "12.0.0"
+  }
+}
