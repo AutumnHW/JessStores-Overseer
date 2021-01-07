@@ -188,7 +188,7 @@ client.on("ready", () => {
         }
       } else {
         //console.log("weekday")
-        /*if (
+        if (
           client.channels.cache
             .get(`663986332166782976`)
             .permissionsFor("701440713585459200")
@@ -231,7 +231,7 @@ client.on("ready", () => {
                 )} at 11:00 GMT**.`
               )
             );
-        }*/
+        }
       }
     }, 60000);
     client.channels.cache.get("709243532598050847").messages.fetch("738857398428500050")
