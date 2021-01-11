@@ -1,0 +1,17 @@
+{
+	"orders": [],
+	"totalspent": 0,
+	"priority": {
+		"pending": false,
+		"has": false,
+		"perm": false,
+		"update": false
+	},
+	"blacklisted": false,
+	"lastbought": 0,
+	"settings": {
+		"recorddata": true,
+		"orderindms": false,
+		"dmnotifications": true
+	}
+}
